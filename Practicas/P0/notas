@@ -5,7 +5,7 @@ https://github.com/chrigarc/cd2019-1
 Hacer fork - Desde la pagina
 Instalar git
 Clonar 
-- git clone git@github.com:[SU USUARIO]/cd2019-1.git
+- git clone https://github.com/Fernando-BM/cd2019-1.git
 Hacer un branch
 - git checkout -b NOMBRE_RAMA
 Agregar el repositorio de Chris como upstream
